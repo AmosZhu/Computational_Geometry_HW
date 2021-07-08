@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Computational_Geometry_HW.dir/main.cpp.o -o Computational_Geometry_HW 
