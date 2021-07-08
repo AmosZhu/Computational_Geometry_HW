@@ -1,3 +1,0 @@
-/mnt/win10/MyCode/Computational_Geometry_HW/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/win10/MyCode/Computational_Geometry_HW/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/win10/MyCode/Computational_Geometry_HW/cmake-build-debug/CMakeFiles/PA1_2.dir
